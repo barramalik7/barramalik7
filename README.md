@@ -10,10 +10,6 @@ I'm a Full Stack Developer based in Indonesia. I love building tools that automa
 
 🌱 I’m currently learning Vibe Coding
 
-💬 Ask me about React, Node.js, and Python
-
-⚡ Fun fact: {FUN_FACT}
-
 🏆 Trophies
 
 <div align="center">
