@@ -39,9 +39,7 @@
    <summary><b>My Current Projects</b></summary>
 
    ## Featured Repos
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Clipper-ku&show_owner=true&theme=radical)](https://github.com/barramalik7/Clipper-ku)
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Develop-by-Ralik&show_owner=true&theme=radical)](https://github.com/barramalik7/Develop-by-Ralik)
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Anna-Kartika-Sari&show_owner=true&theme=radical)](https://github.com/barramalik7/Anna-Kartika-Sari)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Clipper-ku&show_owner=true&theme=radical)](https://github.com/barramalik7/edi-pdf)
 
 </details>
 
