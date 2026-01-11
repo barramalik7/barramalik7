@@ -11,7 +11,7 @@
 <h3>🚀 Full Stack Developer | Open Source Enthusiast | Coffee Lover ☕</h3>
 
 <p align="center">
-I am a passionate developer from <b>[Your Location]</b>. I love exploring new technologies and building cool stuff. 
+I am a passionate developer from <b>Indonesia</b>. I love exploring new technologies and building cool stuff. 
 
 
 
