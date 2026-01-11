@@ -1,25 +1,112 @@
-# Hi 👋, I'm Ralik
+<p align="center"><a href="https://github.com/barramalik7"><img src="https://github.com/barramalik7/barramalik7/blob/main/profile/circle_icon.png" alt="Icon"></a></p>
 
-### A logistic person who like vibe coding
+<p align="center"><a href="https://github.com/barramalik7"><img src="https://komarev.com/ghpvc/?username=barramalik7&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile Views"></a></p>
+<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barramalik7" alt="barramalik7" /></a> </p>
+<i>❝The computer is the most remarkable tool that we've ever come up with. It's the equivalent of a bicycle for our minds.❞</i>
+<hr>
 
-- 📫 How to reach me **malikbarra@gmail.com**
+# About Me 👋
+<p align="center"><b>“</b>Visual Architect, Python Developer, and Logistics Specialist.<b>”</b></p>
+<p align="center"><b><a href="https://linkedin.com/in/barra-malik-wibowo" alt="My LinkedIn">LinkedIn</a></b> | <b><a href="#" alt="My Portfolio">Portfolio</a></b> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/barramalik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="barramalik7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/barra malik wibowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barra malik wibowo" height="30" width="40" /></a>
-</p>
+- 🐍 Active Developer: Building **"Clipper-ku"** (AI Video Clipping) using **Python, Streamlit, and FFmpeg**.
+- 🎨 AI Visual Architect: Specializing in **ComfyUI, Google Veo, and Nano Banana**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+<details>
+   <summary><b>My Statistics</b></summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barramalik7&show_icons=true&locale=en&layout=compact" alt="barramalik7" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=barramalik7&show_icons=true&locale=en" alt="barramalik7" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=barramalik7&theme=default" alt="barramalik7" />
-</div>
+   ## Github Statistics
+   [![](https://github-readme-stats.vercel.app/api?username=barramalik7&count_private=true&show_icons=true&theme=radical)](https://github.com/barramalik7)
+   
+   ## Top Languages
+   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=barramalik7&layout=compact&langs_count=10&theme=radical)](https://github.com/barramalik7)
+   
+   ## My Trophy
+   [![](https://github-profile-trophy.vercel.app/?username=barramalik7&column=-1)](https://github.com/barramalik7)
+   
+   ## Streak
+   [![](https://github-readme-streak-stats.herokuapp.com/?user=barramalik7&theme=radical)](https://github.com/barramalik7)
+   
+   ## Contribution Graph
+   [![](https://github.com/barramalik7/barramalik7/blob/main/github-contribution-grid-snake.svg)](https://github.com/barramalik7)
+</details>
 
+- Active in **Open Source** and **AI Automation** 🟢
+- Exploring **Japanese Language & Culture** 🇯🇵
+
+<details>
+   <summary><b>My Current Projects</b></summary>
+
+   ## Featured Repos
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Clipper-ku&show_owner=true&theme=radical)](https://github.com/barramalik7/Clipper-ku)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Develop-by-Ralik&show_owner=true&theme=radical)](https://github.com/barramalik7/Develop-by-Ralik)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Anna-Kartika-Sari&show_owner=true&theme=radical)](https://github.com/barramalik7/Anna-Kartika-Sari)
+
+</details>
+
+- **Tech Stack:** Python, FastAPI, Streamlit, FFmpeg, Gemini API.
+- **Tools:** VS Code, Obsidian (Templater/Dataview), PHPStorm.
+- **Design:** Swiss Style / International Typographic Style.
+
+<details>
+    <summary><b>My Achievements</b></summary>
+
+   ## Github Achievements
+   | Name | Status |
+   |------|--------|
+   | [Pull Shark](https://github.com/barramalik7?achievement=pull-shark&tab=achievements) | ✔ |
+   | [QuickDraw](https://github.com/barramalik7?achievement=quickdraw&tab=achievements) | ✔ |
+   | [YOLO](https://github.com/barramalik7?achievement=yolo&tab=achievements) | ✔ |
+
+</details>
+
+# Games 🎮
+*Interact with my README to play! (Requires GitHub Actions)*
+
+<details>
+   <summary><b>2048</b></summary>
+    
+   ## 2048
+   - **Game in progress. Click a button below to play!** <br>
+
+   <img src="https://github.com/barramalik7/barramalik7/blob/main/Data/gameboard.png" width="500"/>
+   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideUp.png"/> </a> 
+   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideDown.png"/> </a> 
+   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideLeft.png"/> </a> 
+   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideRight.png"/> </a>
+   ## Leaderboard
+   | Players | Actions |
+   |---------------|:---------:|
+   | [@barramalik7](https://github.com/barramalik7) | 0 |
+   </details>
+
+<details>
+   <summary><b>Chess</b></summary>
+
+   ## Chess
+   - **It's your turn to play!**
+      
+|   | A | B | C | D | E | F | G | H |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/rook.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/queen.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/king.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/rook.png" width=50px> | **8** |
+| **7** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | **7** |
+| **6** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **6** |
+| **5** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **5** |
+| **4** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **4** |
+| **3** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **3** |
+| **2** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | **2** |
+| **1** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/rook.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/queen.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/king.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/rook.png" width=50px> | **1** |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+- **Click a coordinate link to move (Note: This requires you to set up the Issue Action in your repo!)**
+|  FROM  | TO (Click to Move) |
+| :----: | :---------------------- |
+| **A2** | [A3](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+A2+to+A4) |
+| **B2** | [B3](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+B2+to+B3), [B4](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+B2+to+B4) |
+</details>
+
+# Discover 🌐
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/barramalik7/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/barramalik7/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/barramalik7/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+<p align="right">
+<i>Last refresh</i>: <b>Sunday, January 11th, 2026</b>
