@@ -4,11 +4,15 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
-I'm a Full Stack Developer based in Indonesia. I love building tools that automate the boring stuff and creating beautiful visuals with code.
+I'm a Full Stack Developer based in {LOCATION}. I love building tools that automate the boring stuff and creating beautiful visuals with code.
 
-🔭 I’m currently working on edit-pdf
+🔭 I’m currently working on {PROJECT_NAME}
 
-🌱 I’m currently learning Vibe Coding
+🌱 I’m currently learning {NEW_SKILL}
+
+💬 Ask me about React, Node.js, and Python
+
+⚡ Fun fact: {FUN_FACT}
 
 🏆 Trophies
 
