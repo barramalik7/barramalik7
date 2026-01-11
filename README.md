@@ -39,7 +39,7 @@
    <summary><b>My Current Projects</b></summary>
 
    ## Featured Repos
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=Clipper-ku&show_owner=true&theme=radical)](https://github.com/barramalik7/edi-pdf)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=barramalik7&repo=edit-pdf&show_owner=true&theme=radical)](https://github.com/barramalik7/edit-pdf)
 
 </details>
 
