@@ -59,49 +59,5 @@
 
 </details>
 
-# Games 🎮
-*Interact with my README to play! (Requires GitHub Actions)*
-
-<details>
-   <summary><b>2048</b></summary>
-    
-   ## 2048
-   - **Game in progress. Click a button below to play!** <br>
-
-   <img src="https://github.com/barramalik7/barramalik7/blob/main/Data/gameboard.png" width="500"/>
-   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideUp.png"/> </a> 
-   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideDown.png"/> </a> 
-   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideLeft.png"/> </a> 
-   <a href="https://github.com/barramalik7/barramalik7/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/Assets/slideRight.png"/> </a>
-   ## Leaderboard
-   | Players | Actions |
-   |---------------|:---------:|
-   | [@barramalik7](https://github.com/barramalik7) | 0 |
-   </details>
-
-<details>
-   <summary><b>Chess</b></summary>
-
-   ## Chess
-   - **It's your turn to play!**
-      
-|   | A | B | C | D | E | F | G | H |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/rook.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/queen.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/king.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/rook.png" width=50px> | **8** |
-| **7** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/black/pawn.png" width=50px> | **7** |
-| **6** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **6** |
-| **5** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **5** |
-| **4** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **4** |
-| **3** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/blank.png" width=50px> | **3** |
-| **2** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/pawn.png" width=50px> | **2** |
-| **1** | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/rook.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/queen.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/king.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/bishop.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/knight.png" width=50px> | <img src="https://raw.githubusercontent.com/xqwtxon/xqwtxon/profile/img/white/rook.png" width=50px> | **1** |
-|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
-- **Click a coordinate link to move (Note: This requires you to set up the Issue Action in your repo!)**
-|  FROM  | TO (Click to Move) |
-| :----: | :---------------------- |
-| **A2** | [A3](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+A2+to+A4) |
-| **B2** | [B3](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+B2+to+B3), [B4](https://github.com/barramalik7/barramalik7/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+B2+to+B4) |
-</details>
-
 <p align="right">
 <i>Last refresh</i>: <b>Sunday, January 11th, 2026</b>
