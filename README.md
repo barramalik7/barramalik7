@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Ralik!
+# Hi there 👋
+
+I'm Ralik!
 
 Check out my portfolio 👇
 
